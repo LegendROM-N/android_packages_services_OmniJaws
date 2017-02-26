@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="widget_text_color">@android:color/white</color>
+
+    <!-- Material design app colors -->
+    <color name="colorPrimary">#4285f4</color>
+    <color name="colorPrimaryDark">#4169ac</color>
+    <color name="colorAccent">#4285f4</color>
 </resources>
